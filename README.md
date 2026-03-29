@@ -1,8 +1,8 @@
 ## Hi Hello Goodmorning !!1!
 
 Im MIOBOMB, professional FullStack vanilla-JS developer, creator && owner of these websites:
-[GDPS Helper|https://gdpshelper.xyz] - Geometry Dash private servers catalog && GDPSes guide platform
-[Object Hub|https://objecthub.xyz] - Website about Object Show Community with catalogs, self-written wiki-engine and small hr-platform
+[GDPS Helper](https://gdpshelper.xyz) - Geometry Dash private servers catalog && GDPSes guide platform
+[Object Hub](https://objecthub.xyz) - Website about Object Show Community with catalogs, self-written wiki-engine and small hr-platform
 
 Also I created my custon frontend toolkit called **newHelper.js** - 4 KB min+gzip, many modules, zero dev+prod dependences, works without bundlers.
 
