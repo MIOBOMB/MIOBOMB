@@ -1,10 +1,10 @@
 ## Hi Hello Goodmorning !!1!
 
-Im MIOBOMB, professional FullStack vanilla-JS developer, creator && owner of these websites:
-[GDPS Helper](https://gdpshelper.xyz) - Geometry Dash private servers catalog && GDPSes guide platform
-[Object Hub](https://objecthub.xyz) - Website about Object Show Community with catalogs, self-written wiki-engine and small hr-platform
-
-Also I created my custon frontend toolkit called **newHelper.js** - 4 KB min+gzip, many modules, zero dev+prod dependences, works without bundlers.
+Im MIOBOMB, professional FullStack vanilla-JS developer, creator && owner of these websites:  
+[GDPS Helper](https://gdpshelper.xyz) - Geometry Dash private servers catalog && GDPSes guide platform.  
+[Object Hub](https://objecthub.xyz) - Website about Object Show Community with catalogs, self-written wiki-engine and small hr-platform.  
+  
+Also I created my custon frontend toolkit called **newHelper.js** - 4 KB min+gzip, many modules, zero dev+prod dependences, works without bundlers.  
 
 ## My stack
 - **Frontend** - newHelper.js + vanilla JS
@@ -19,17 +19,8 @@ Also I created my custon frontend toolkit called **newHelper.js** - 4 KB min+gzi
 - Learning Elixir - its fast ig
 - GDPS Helper 2.0 - maybe...
 
-<!--
-**MIOBOMB/MIOBOMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+- Discord: @miobomb
+- Telegram: @MIOBOMB
+- X (Twitter): @mchidenOJHUB
+- Object hub tech support (you rlly can, i respond)
