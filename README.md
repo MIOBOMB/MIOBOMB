@@ -8,7 +8,7 @@ Also I created my custon frontend toolkit called **newHelper.js** - 4.6 KB min+g
 
 ## My stack
 - **Frontend** - newHelper.js + vanilla JS
-- **Backend** - PHP, Fastify, SQL
+- **Backend** - PHP, Fastify, Go (net/http), SQL
 - **OS** - FreeBSD 15.1
 - **IDE** - Neovim + Tmux
 
