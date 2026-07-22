@@ -14,8 +14,8 @@ Also I created my custon frontend toolkit called **newHelper.js** - 4.6 KB min+g
 
 ## Im doing now
 - newHelper.js 2.2 - X10 Window system, toasts, more modular + plugin store
-- Object hub 0.98 - Powerful wiki sidebar
-- Object Hub openGo - Porting the object hub backend on golang
+- Object Hub 0.98 - Powerful wiki sidebar
+- Object Hub openGo - Public domain backend for Object Hub
 - Learning go
 - Learning Freebsd
 
