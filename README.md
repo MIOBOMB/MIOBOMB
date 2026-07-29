@@ -2,25 +2,25 @@
 
 I'm MIOBOMB, full-stack vanilla JavaScript and Go developer. I like building software that runs on hardware everyone else has already given up on  
 
-I build lightweight web applications, backend systems, and developer tools from scratch, with a particular focus on performance, low resource usage, and minimal dependencies
+I build lightweight web applications, backend systems, and developer tools from scratch, with a particular focus on performance, low resource usage, and minimal dependencies  
 
 # My production projects
 
 ## GDPS Helper
-*- 2023–2026*
-A catalog and guide platform for Geometry Dash private servers
-Features include:
+*- 2023–2026*  
+A catalog and guide platform for Geometry Dash private servers  
+Features include:  
 - Adaptive design
 - News, comments, and likes
 - A self-written and stable SPA engine
 - Lightweight localization with hot language replacement
 
-The project was later discontinued, but its codebase became the foundation for the first production version of Object Hub
+The project was later discontinued, but its codebase became the foundation for the first production version of Object Hub  
 
 ## Object Hub
-*- 2024–now*
-A platform for the Object Show community, originally forked from GDPS Helper
-Object Hub still uses the original GDPS Helper SPA engine, while significantly expanding and evolving its architecture with new systems and ideas, including:
+*- 2024–now*  
+A platform for the Object Show community, originally forked from GDPS Helper  
+Object Hub still uses the original GDPS Helper SPA engine, while significantly expanding and evolving its architecture with new systems and ideas, including:  
 - An X Window System-inspired window management architecture with multiple window managers
 - A self-written wiki engine with client-side rendering
 - A custom frontend runtime with runtime injection and extensibility capabilities
@@ -32,7 +32,7 @@ Object Hub still uses the original GDPS Helper SPA engine, while significantly e
 # My Projects & Tools
 
 ## newHelper.js
-A custom lightweight frontend toolkit created by me and used by Object Hub.
+A custom lightweight frontend toolkit created by me and used by Object Hub
 - 5.5 KB minified + gzipped
 - Zero development and production dependencies
 - Works without bundlers
