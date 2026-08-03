@@ -51,9 +51,11 @@ The project is Public Domain and is being developed openly from the beginning
 - **IDE** - Neovim + Tmux
 
 ## Im doing now
+- Object Hub openRust - webpush quere on Axum
 - Object Hub openGo
 - Object Hub 0.98 - Powerful wiki sidebar
 - newHelper.js 2.2 - X10 Window system, toasts, more modular + plugin store
+- Learning rust
 - Learning FreeBSD
 
 ## Contacts
