@@ -45,17 +45,17 @@ The project is Public Domain and is being developed openly from the beginning
 
 # My stack
 - **Frontend** - newHelper.js + vanilla JS
-- **Backend** - PHP, Fastify, Go (net/http)
+- **Backend** - PHP, Fastify, Go (net/http), Rust (just a little)
 - **Database** - SQL/MySQL
 - **OS** - FreeBSD 15.1, TempleOS
 - **IDE** - Neovim + Tmux
 
 ## Im doing now
+- Object Hub 0.98 - Powerful wiki sidebar
+- Learning Rust
 - Object Hub openRust - webpush quere on Axum
 - Object Hub openGo
-- Object Hub 0.98 - Powerful wiki sidebar
 - newHelper.js 2.2 - X10 Window system, toasts, more modular + plugin store
-- Learning rust
 - Learning FreeBSD
 
 ## Contacts
