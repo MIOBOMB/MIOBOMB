@@ -51,12 +51,14 @@ The project is Public Domain and is being developed openly from the beginning
 - **IDE** - Neovim + Tmux
 
 ## Im doing now
+- Playing Omsi 2 under Wine+DXVK into FreeBSD 14.5 jail
 - Object Hub 0.98 - Powerful wiki sidebar
 - Learning Rust
 - Object Hub openRust - webpush quere on Axum
 - Object Hub openGo
 - newHelper.js 2.2 - X10 Window system, toasts, more modular + plugin store
-- Learning FreeBSD
+- Learning how to clone and setup FreeBSD jails
+- Learning all powerful features of FreeBSD ZFS
 
 ## Contacts
 - Discord: @miobomb
