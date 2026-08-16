@@ -51,7 +51,8 @@ The project is Public Domain and is being developed openly from the beginning
 - **IDE** - Neovim + Tmux
 
 ## Im doing now
-- Playing Omsi 2 under Wine+DXVK into FreeBSD 14.5 jail
+- Playing Omsi 2 under Wine+DXVK into FreeBSD 14.5 jail (Treating burnout)
+- Learning work-life balance
 - Object Hub 0.98 - Powerful wiki sidebar
 - Learning Rust
 - Object Hub openRust - webpush quere on Axum
