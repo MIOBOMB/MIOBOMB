@@ -22,6 +22,7 @@ The project was later discontinued, but its codebase became the foundation for t
 A platform for the Object Show community, originally forked from GDPS Helper  
 Object Hub still uses the original GDPS Helper SPA engine, while significantly expanding and evolving its architecture with new systems and ideas, including:  
 - An X Window System-inspired window management architecture with multiple window managers
+- SPA Jails system
 - A self-written wiki engine with client-side rendering
 - A custom frontend runtime with runtime injection and extensibility capabilities
 - Source code released into the public domain
@@ -51,10 +52,9 @@ The project is Public Domain and is being developed openly from the beginning
 - **IDE** - Neovim + Tmux
 
 ## Im doing now
-- Learning work-life balance
-- Learning OpenBSD review style
+- Learning Xash3D
 - GDPS Helper Engine Documentation
-- Object Hub 0.98 - Powerful wiki sidebar
+- Learning work-life balance
 - Learning Rust
 - newHelper.js 2.2 - X10 Window system, toasts, more modular + plugin store
 
