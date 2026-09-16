@@ -45,17 +45,16 @@ The project aims to provide a portable and maintainable replacement for the exis
 The project is Public Domain and is being developed openly from the beginning  
 
 # My stack
-- **Frontend** - newHelper.js + vanilla JS
+- **Frontend** - newHelper.js + GDPS Helper Engine + vanilla JS
 - **Backend** - PHP, node.js (Fastify), Go (net/http), Rust (just a little)
 - **Database** - SQL/MySQL
-- **OS** - FreeBSD 15.1, TempleOS
+- **OS** - FreeBSD 15.1
 - **IDE** - Neovim + Tmux
 
 ## Im doing now
-- Learning Xash3D
-- GDPS Helper Engine Documentation
 - Learning work-life balance
 - Learning Rust
+- GDPS Helper Engine Documentation
 - newHelper.js 2.2 - X10 Window system, toasts, more modular + plugin store
 
 ## Contacts
