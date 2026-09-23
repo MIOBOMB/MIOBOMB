@@ -53,7 +53,7 @@ The project is Public Domain and is being developed openly from the beginning
 
 ## Im doing now
 - Learning work-life balance
-- Learning Rust
+- Object Hub 0.99
 - GDPS Helper Engine Documentation
 - newHelper.js 2.2 - X10 Window system, toasts, more modular + plugin store
 
