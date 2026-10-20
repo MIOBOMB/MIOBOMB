@@ -52,10 +52,10 @@ The project is Public Domain and is being developed openly from the beginning
 - **IDE** - Neovim + Tmux
 
 ## Im doing now
+- vibecoding ojhub-qt
 - object Hub Protocol V133R3 Documentation
 - GDPS Helper Engine Documentation
 - Object Hub 0.99
-- Studying ReactOS Source tree
 - newHelper.js 2.2 - X10 Window system, toasts, more modular + plugin store
 
 ## Contacts
