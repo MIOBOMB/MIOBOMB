@@ -52,7 +52,8 @@ The project is Public Domain and is being developed openly from the beginning
 - **IDE** - Neovim + Tmux
 
 ## Im doing now
-- vibecoding ojhub-qt
+- Learning HolyC
+- Learning TempleOS Internals
 - object Hub Protocol V133R3 Documentation
 - GDPS Helper Engine Documentation
 - Object Hub 0.99
