@@ -21,6 +21,7 @@ The project was later discontinued, but its codebase became the foundation for t
 *- 2024–now*  
 A platform for the Object Show community, originally forked from GDPS Helper  
 Object Hub still uses the original GDPS Helper SPA engine, while significantly expanding and evolving its architecture with new systems and ideas, including:  
+A huge stack (JavaScript, Go, C++, Rust, Java, etc.)  
 - An X Window System-inspired window management architecture with multiple window managers
 - A self-written wiki engine with client-side rendering
 - A custom frontend runtime with runtime injection and extensibility capabilities
@@ -48,12 +49,12 @@ The project is Public Domain and is being developed openly from the beginning
 - **Frontend** - newHelper.js + GDPS Helper Engine + vanilla JS
 - **Backend** - PHP, node.js (Fastify), Go (net/http), Rust (just a little)
 - **Database** - SQL/MySQL
+- **Native** - Java + Android Views (just learning)
 - **OS** - FreeBSD 15.1
 - **IDE** - Neovim + Tmux
 
 ## Im doing now
-- Learning HolyC
-- Learning TempleOS Internals
+- Object Hub Dalvik
 - object Hub Protocol V133R3 Documentation
 - GDPS Helper Engine Documentation
 - Object Hub 0.99
